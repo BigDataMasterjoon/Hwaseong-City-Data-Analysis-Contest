@@ -7,6 +7,8 @@
 화성시의 건물 위치와 기존 체육관 위치 기반으로 신규 체육관 위치를 추천하는 모델을 개발 및 쉽게 확인할 수 있게 지도시각화 하였다.
 
 # 공모전 설명
+<img width="891" height="1260" alt="image" src="https://github.com/user-attachments/assets/30584bf7-89c5-4bc2-8e3c-ef8f90f6caa8" />
+
 https://linkareer.com/activity/232202
 
 # 사용 데이터
