@@ -1,4 +1,6 @@
-# __map.html__ 파일 다운로드-오픈하면 지도시각화 결과물 확인 가능!
+# shiny앱으로도 구현하여 확인 가능!
+https://bigdata-master-joon.shinyapps.io/hwaseong-city-data-analysis-contest-map/
+
 <img width="1885" height="877" alt="image" src="https://github.com/user-attachments/assets/d47d5607-427a-4b1e-b5f8-8844f63650f8" />
 
 # README
