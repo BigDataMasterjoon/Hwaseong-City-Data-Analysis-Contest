@@ -1,4 +1,5 @@
-# shiny앱으로도 구현하여 확인 가능!
+# shiny앱으로도 구현완료!
+아래 링크 클릭시 확인 가능.
 https://bigdata-master-joon.shinyapps.io/hwaseong-city-data-analysis-contest-map/
 
 <img width="1885" height="877" alt="image" src="https://github.com/user-attachments/assets/d47d5607-427a-4b1e-b5f8-8844f63650f8" />
