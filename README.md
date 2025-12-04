@@ -17,6 +17,10 @@ https://bigdata-master-joon.shinyapps.io/hwaseong-city-data-analysis-contest-map
 - 작업 코드: 실제코드_250528.py
 - 화성시 내에 새로운 체육관 위치 추천 시각화 한 지도: map.html
 
+# 제출포스터
+<img width="615" height="873" alt="image" src="https://github.com/user-attachments/assets/4a1ce7e8-fccf-4b5a-8e67-296241681c34" />
+
+
 # 공모전 설명
 <img width="891" height="1260" alt="image" src="https://github.com/user-attachments/assets/30584bf7-89c5-4bc2-8e3c-ef8f90f6caa8" />
 
